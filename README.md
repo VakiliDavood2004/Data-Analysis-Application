@@ -1,6 +1,6 @@
-## **🇩🇪 Projektbeschreibung (German)**
+# **🇩🇪 Projektbeschreibung (German)**
 
-# 📊 Datenanalyse- und Visualisierungs-App
+## 📊 Datenanalyse- und Visualisierungs-App
 
 Dieses Projekt ist eine Python-basierte Anwendung zur **Datenanalyse**, **Berichtserstellung** und **Visualisierung durch Diagramme**.  
 Es enthält mehrere Module, eine Datenbank, CSV-Dateien und ein Stylesheet, um ein vollständiges Analyseerlebnis zu bieten.
@@ -66,11 +66,11 @@ Mit Dank und den besten Wünschen,
 
 
 ---
-## **🇬🇧 Project Description (English)**
+# **🇬🇧 Project Description (English)**
 ---
 
 
-# 📊 Data Analysis & Visualization App
+## 📊 Data Analysis & Visualization App
 
 This project is a Python-based application designed for **data analysis**, **report generation**, and **visualization through charts**. It includes multiple modules, a database, CSV files, and a stylesheet to deliver a complete analytical experience.
 
